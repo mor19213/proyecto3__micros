@@ -1,0 +1,32 @@
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 68 : Found label after column 1. (PRENDIDO)
+Warning[202] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 70 : Argument out of range.  Least significant bits used.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 74 : Found label after column 1. (APAGADO)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 85 : Found label after column 1. (COSO1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 96 : Found label after column 1. (COSO2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 108 : Found label after column 1. (COSO3)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 132 : Found label after column 1. (NEL1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 140 : Found label after column 1. (NEL2)
+Warning[211] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 147 : Extraneous arguments on the line.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 148 : Found label after column 1. (NEL3)
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 170 : Using default destination of 1 (file).
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 221 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 246 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 254 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 255 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 256 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 257 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 259 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 260 : Using default destination of 1 (file).
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 260 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 261 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 262 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 269 : Found label after column 1. (CONFIG_TMR0)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 273 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 280 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 288 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 295 : Found label after column 1. (DELAY_1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 298 : Found label after column 1. (CONFIG1)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 304 : Found label after column 1. (DELAY_2)
+Warning[207] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 307 : Found label after column 1. (CONFIG2)
+Message[302] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 315 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\SERVI\MPLABXPROJECTS\PRUEBA3.X\PRUEBA3.ASM 318 : Found directive in column 1. (END)
